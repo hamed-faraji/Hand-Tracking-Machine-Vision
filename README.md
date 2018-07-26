@@ -1,2 +1,3 @@
-# Hand-Tracking-Machine-Vision
+# Hand Tracking & Face Detection Machine Vision
 Simple py code to detect hand tracking and use it to drag and drop icon in windows and ...
+& recognize face
